@@ -1,6 +1,6 @@
 FROM alpine:3.8
 
-LABEL "name"="kubectl"Dockerfile
+LABEL "name"="kubectl"
 LABEL "maintainer"="strebeld@gmail.com"
 LABEL "version"="0.9"
 LABEL "com.github.actions.icon"="terminal"
